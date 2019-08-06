@@ -42,7 +42,7 @@
   "description": "Can't do much, but he'll throw in some of his inheritance",
   "effects": [{
     "type": "cash",
-    "value": 100000
+    "value": 100000000000
   }],
   "attributes": [
     "Tireless"
